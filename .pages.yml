@@ -1,6 +1,6 @@
 media:
-  input: src/images
-  output: /
+  input: public/images
+  output: /images
 components:
  bio-text:
    label: Homepage Biography Text
