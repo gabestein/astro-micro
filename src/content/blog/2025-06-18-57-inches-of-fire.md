@@ -1,5 +1,6 @@
 ---
 title: 57 Inches of Fire
+date: 2021-03-25
 description: The Life & Labor Legacy of Rose Schneiderman
 ---
 Her enemies called her “The Red Rose of Anarchy.” Male union leaders dismissed her as a _fabrente meydeleh_ (“fiery girl” in Yiddish…aka “hothead”). Her friends knew her as a force to be reckoned with.
