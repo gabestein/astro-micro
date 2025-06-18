@@ -14,11 +14,12 @@ import Link from "./Link.astro";
     </div>
     <div class="flex items-center justify-between">
       <div class="pr-10 md:pr-0">
-        &copy; {new Date().getFullYear()} • {SITE.TITLE}
+        &copy; {new Date().getFullYear()}
+        {SITE.TITLE}
+        {` • `}
         {
           SOCIALS.map((SOCIAL) => (
             <span>
-              {`•`}
               <Link
                 href={SOCIAL.HREF}
                 external
@@ -26,9 +27,11 @@ import Link from "./Link.astro";
               >
                 {SOCIAL.NAME}
               </Link>
+              {` • `}
             </span>
           ))
         }
+        <Link href={`mailto:${SITE.EMAIL}`}>Email</Link>
       </div>
       <div class="flex items-center gap-1.5 sm:flex-nowrap md:flex-wrap">
         <button

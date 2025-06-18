@@ -3,7 +3,7 @@ import type { Metadata, Site, Socials } from "@types";
 export const SITE: Site = {
   TITLE: "Ariel Azoff",
   DESCRIPTION: "New York City and Brooklyn tour guide and historian.",
-  EMAIL: "arielazoff@gmail.com",
+  EMAIL: "ariel@arielazoff.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
@@ -31,9 +31,5 @@ export const SOCIALS: Socials = [
   {
     NAME: "LinkedIn",
     HREF: "https://linkedin.com/in/arielazoff",
-  },
-  {
-    NAME: "Email",
-    HREF: "mailto:ariel@arielazoff.com",
   },
 ];
