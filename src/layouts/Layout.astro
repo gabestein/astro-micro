@@ -3,6 +3,7 @@ import Head from "@components/Head.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Pagefind from "@components/PageFind.astro";
+import Container from "@components/Container.astro";
 import { SITE } from "@consts";
 
 type Props = {
@@ -21,15 +22,17 @@ const { title, description } = Astro.props;
   <body>
     <noscript>
       <style>
-        .animate{
-          opacity:1;
+        .animate {
+          opacity: 1;
           translate: var(--tw-translate-x) calc(var(--spacing) * 0);
         }
       </style>
     </noscript>
     <Header />
     <main>
-      <slot />
+      <Container>
+        <slot />
+      </Container>
     </main>
     <Footer />
     <Pagefind />
