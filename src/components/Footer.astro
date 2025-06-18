@@ -12,13 +12,14 @@ import BackToTop from "@components/BackToTop.astro";
       </div>
     </div>
     <div class="flex items-center justify-between">
-      <div>
+      <div class="pr-10 md:pr-0">
         &copy; {new Date().getFullYear()} • {SITE.TITLE} • <a
           href="https://instagram.com/arielazoff">Instagram</a
         > • <a href="https://linkedin.com/in/arielazoff">LinkedIn</a> • <a
-          href="mailto:ariel@arielazoff.com">Contact</a>
+          href="mailto:ariel@arielazoff.com">Contact</a
+        >
       </div>
-      <div class="flex flex-wrap items-center gap-1.5">
+      <div class="flex items-center gap-1.5 sm:flex-nowrap md:flex-wrap">
         <button
           id="light-theme-button"
           aria-label="Light theme"
