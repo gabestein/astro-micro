@@ -3,7 +3,7 @@ title: Irene Moorman Blackstone
 date: 2021-03-27
 description: Suffragist, Club Woman Extraordinaire, and Activist for Racial Equity
 ---
-<p style="text-align: center"><img src="https://miro.medium.com/v2/resize:fit:852/0*1jE82qAVsG8JiOGx.png" alt="" class="bh md nf c" style="box-sizing: inherit; vertical-align: middle; background-color: rgb(255, 255, 255); width: 426px; max-width: 100%; height: auto;" width="426" height="611"></p><p style="text-align: center"><em>Irene Moorman, 1909 (Wikimedia Commons)</em></p>
+<p style="text-align: center"><img src="/images/mooreman_portrait.png"></p><p style="text-align: center"><em>Irene Moorman, 1909 (Wikimedia Commons)</em></p>
 
 Irene Moorman was born in Virginia to a formerly enslaved woman named Johanna Enders Moorman, just seven years after the end of the Civil War.
 
@@ -72,11 +72,9 @@ Around the same time, Irene married a Reverend Blackstone, but the marriage didn
 
 Still as passionate and involved as ever, but feeling betrayed by the mainstream women’s movement, Irene soon found a new community. In 1916, she attended the first New York City lecture ever given by Marcus Garvey.
 
-His message of pride and worthiness and shared struggle must have moved her deeply, and only a year later she joined his club,
+His message of pride and worthiness and shared struggle must have moved her deeply, and only a year later she joined his club, becoming president of the ladies’ branch of the Universal Negro Improvement Association.
 
-<p style="text-align: center"><img src="https://miro.medium.com/v2/resize:fit:820/0*w5WOyYeeaDCNMbHZ.png" alt="" class="bh md nf c" style="box-sizing: inherit; vertical-align: middle; background-color: rgb(255, 255, 255); width: 410px; max-width: 100%; height: auto;" width="410" height="599"></p><p style="text-align: center"><em>Marcus Garvey with his second wife, activist Amy Jacques Garvey, 1922 (Wikimedia Commons)</em></p>
-
-becoming president of the ladies’ branch of the Universal Negro Improvement Association.
+<p style="text-align: center"><img src="/images/garvey_second_wife.png"></p><p style="text-align: center"><em>Marcus Garvey with his second wife, activist Amy Jacques Garvey, 1922 (Wikimedia Commons)</em></p>
 
 In this capacity, she kept speaking publicly about both racism and sexism. In one lecture, decrying the power structures that kept Black women down, she urged them to “leave white women’s kitchens” and rely on their own unique skills and ingenuity.
 
@@ -88,16 +86,16 @@ She never stopped fighting for equality, both for her sex and for her race.
 
 > _“I am American. I am Black. And I am proud that I’m Black,” she proclaimed._
 
-Sources:
+## Sources
 
-Neuman, J. (2019). _Gilded suffragists: The New York socialites who fought for women’s right to vote_. New York: Washington Mews Books, and imprint of New York University Press.
-
-Keisha, B. N. (2018). _Set the World on Fire: Black Nationalist Women and the Global Struggle for Freedom_. Philadelphia, PA: University of Pennsylvania Press.
-
-[Biographical Sketch of Irene Moorman Blackstone](https://search.alexanderstreet.com/view/work/bibliographic_entity%7Cbibliographic_details%7C3911196) written by Susan Goodier, fl. 2007 (Alexandria, VA: Alexander Street, 2017), 2 page(s)
-
-Johnson, J. M. (2020). Not as a Favor Not as a Privilege, But as a Right: Woman Suffragists, Race, Rights, and the Nineteenth Amendment. _Western New England Law Review,_ _4242_(3), 389–394.
-
-[Irene Moorman Blackstone](https://awpc.cattcenter.iastate.edu/directory/irene-moorman-blackstone/). Iowa State University Archives of Women’s Political Communication.
-
-Wilder, C. S. (2000). _A covenant with color: Race and social power in Brooklyn_. New York, NY: Columbia Univ. Press.
+*   Neuman, J. (2019). _Gilded suffragists: The New York socialites who fought for women’s right to vote_. New York: Washington Mews Books, and imprint of New York University Press.
+    
+*   Keisha, B. N. (2018). _Set the World on Fire: Black Nationalist Women and the Global Struggle for Freedom_. Philadelphia, PA: University of Pennsylvania Press.
+    
+*   [Biographical Sketch of Irene Moorman Blackstone](https://search.alexanderstreet.com/view/work/bibliographic_entity%7Cbibliographic_details%7C3911196) written by Susan Goodier, fl. 2007 (Alexandria, VA: Alexander Street, 2017), 2 page(s)
+    
+*   Johnson, J. M. (2020). Not as a Favor Not as a Privilege, But as a Right: Woman Suffragists, Race, Rights, and the Nineteenth Amendment. _Western New England Law Review,_ _4242_(3), 389–394.
+    
+*   [Irene Moorman Blackstone](https://awpc.cattcenter.iastate.edu/directory/irene-moorman-blackstone/). Iowa State University Archives of Women’s Political Communication.
+    
+*   Wilder, C. S. (2000). _A covenant with color: Race and social power in Brooklyn_. New York, NY: Columbia Univ. Press.
