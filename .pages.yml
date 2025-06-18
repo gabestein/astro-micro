@@ -31,8 +31,8 @@ content:
     type: file
     path: src/pages/index.mdx
     fields:
-      - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
+      - { name: layout, type: string, hidden: true, default: "../layouts/Layout.astro" }
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string }
       - { name: bio, label: Bio Text, component: bio-text }
-      - { name: body, label: Body (DO NOT EDIT), type: text}
+      - { name: body, label: Body (DO NOT EDIT), type: text, hidden: true}
