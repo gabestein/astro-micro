@@ -1,6 +1,10 @@
 media:
   input: src/images
   output: /
+components:
+ bio-text:
+   label: Homepage Biography Text
+   type: rich-text
 content:
   - name: posts
     label: Posts
