@@ -1,7 +1,8 @@
 ---
 import Container from "@components/Container.astro";
-import { SITE } from "@consts";
+import { SITE, SOCIALS } from "@consts";
 import BackToTop from "@components/BackToTop.astro";
+import Link from "./Link.astro";
 ---
 
 <footer class="animate">
@@ -13,11 +14,21 @@ import BackToTop from "@components/BackToTop.astro";
     </div>
     <div class="flex items-center justify-between">
       <div class="pr-10 md:pr-0">
-        &copy; {new Date().getFullYear()} • {SITE.TITLE} • <a
-          href="https://instagram.com/arielazoff">Instagram</a
-        > • <a href="https://linkedin.com/in/arielazoff">LinkedIn</a> • <a
-          href="mailto:ariel@arielazoff.com">Contact</a
-        >
+        &copy; {new Date().getFullYear()} • {SITE.TITLE}
+        {
+          SOCIALS.map((SOCIAL) => (
+            <span>
+              {`•`}
+              <Link
+                href={SOCIAL.HREF}
+                external
+                aria-label={`${SITE.TITLE} on ${SOCIAL.NAME}`}
+              >
+                {SOCIAL.NAME}
+              </Link>
+            </span>
+          ))
+        }
       </div>
       <div class="flex items-center gap-1.5 sm:flex-nowrap md:flex-wrap">
         <button

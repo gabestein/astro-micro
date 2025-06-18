@@ -25,15 +25,15 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   {
-    NAME: "X (formerly Twitter)",
-    HREF: "https://twitter.com/boogerbuttcheek",
+    NAME: "Instagram",
+    HREF: "https://instagram.com/arielazoff",
   },
   {
-    NAME: "GitHub",
-    HREF: "https://github.com/trevortylerlee",
+    NAME: "LinkedIn",
+    HREF: "https://linkedin.com/in/arielazoff",
   },
   {
-    NAME: "Website",
-    HREF: "https://trevortylerlee.com",
+    NAME: "Email",
+    HREF: "mailto:ariel@arielazoff.com",
   },
 ];
