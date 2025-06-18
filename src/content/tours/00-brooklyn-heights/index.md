@@ -1,0 +1,27 @@
+---
+title: "Women of 19th Century Brooklyn Heights"
+description: "The tour focuses on the lives of women who lived in Brooklyn Heights during the years the Brooklyn Bridge was being built (1969-1883)."
+date: "2017-05-18"
+---
+
+## Summary
+
+The tour focuses on the lives of women (three, in particular) who lived in Brooklyn Heights during the years the Brooklyn Bridge was being built (1969-1883). We cover gender dynamics, fashion, real estate, and politics, with a healthy dose of scandal. It runs about 2 hours
+
+## The Women
+
+### Emily Roebling
+
+### Elizabeth Gloucester
+
+### Lib Tilton
+
+## Reading List
+
+- [Other Powers: The Age of Suffrage, Spiritualism, and the Scandalous Victoria Woodhull](https://www.goodreads.com/book/show/216659.Other_Powers?from_search=true)
+- [The Three Graces of Raymond Street: Murder, Madness, Sex, and Politics in 1870s Brooklyn](https://www.goodreads.com/book/show/25071482-the-three-graces-of-raymond-street)
+- [The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge](https://www.goodreads.com/book/show/2369.The_Great_Bridge?from_search=true) 
+- [Chief Engineer: Washington Roebling, The Man Who Built the Brooklyn Bridge](https://www.goodreads.com/book/show/31450817-chief-engineer?ac=1&from_search=true)
+- [Banquet at Delmonico's: Great Minds, the Gilded Age, and the Triumph of Evolution in America](https://www.goodreads.com/book/show/5277128-banquet-at-delmonico-s?ac=1&from_search=true)
+- [The Light of the Home: An Intimate View of the Lives of Women in Victorian America](https://www.amazon.com/Light-Home-Intimate-Victorian-America/dp/1557287600)
+- [Fashion in Underwear: from Babylon to Bikini Briefs](https://www.amazon.com/Fashion-Underwear-Babylon-Bikini-Costumes/dp/0486476499/ref=sr_1_3?s=books&ie=UTF8&qid=1512445709&sr=1-3&keywords=underwear+a+history)

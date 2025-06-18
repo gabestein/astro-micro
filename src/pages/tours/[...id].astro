@@ -9,7 +9,7 @@ import Link from "@components/Link.astro";
 import TableOfContents from "@components/TableOfContents.astro";
 
 export async function getStaticPaths() {
-  const projects = (await getCollection("projects"))
+  const projects = (await getCollection("tours"))
     .filter((post) => !post.data.draft)
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return projects.map((project) => ({
@@ -17,7 +17,7 @@ export async function getStaticPaths() {
     props: project,
   }));
 }
-type Props = CollectionEntry<"projects">;
+type Props = CollectionEntry<"tours">;
 
 const project = Astro.props;
 const { Content, headings } = await render(project);
@@ -25,23 +25,16 @@ const { Content, headings } = await render(project);
 
 <Layout title={project.data.title} description={project.data.description}>
   <div class="animate">
-    <BackToPrevious href="/tours">Back to projects</BackToPrevious>
+    <BackToPrevious href="/tours">Back to tours</BackToPrevious>
   </div>
   <div class="animate my-10 space-y-1">
-    <div class="flex items-center gap-1.5">
-      <div class="font-base text-sm">
-        <FormattedDate date={project.data.date} />
-      </div>
-      &bull;
-      {
-        project.body && (
-          <div class="font-base text-sm">{readingTime(project.body)}</div>
-        )
-      }
-    </div>
+    <div class="flex items-center gap-1.5"></div>
     <h1 class="text-3xl font-semibold text-black dark:text-white">
       {project.data.title}
     </h1>
+    <div class="font-base text-sm">
+      First Given: <FormattedDate date={project.data.date} />
+    </div>
     {
       (project.data.demoURL || project.data.repoURL) && (
         <nav class="flex gap-1">
