@@ -27,12 +27,8 @@ content:
       - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
   - name: home
-    label: Home Page
+    label: Homepage Bio
     type: file
-    path: src/pages/index.mdx
+    path: src/components/Homepage.mdx
     fields:
-      - { name: layout, type: string, hidden: true, default: "../layouts/Layout.astro" }
-      - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: string }
-      - { name: bio, label: Bio Text, component: bio-text }
-      - { name: body, label: Body (DO NOT EDIT), type: text, hidden: true}
+      - { name: body, label: Homepage Bio, type: rich-text}
