@@ -29,6 +29,6 @@ content:
   - name: home
     label: Homepage Bio
     type: file
-    path: src/components/Homepage.mdx
+    path: src/components/Homepage.md
     fields:
       - { name: body, label: Homepage Bio, type: rich-text}
