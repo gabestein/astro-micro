@@ -3,13 +3,14 @@ title: Crystal Eastman
 date: 2021-03-31
 description: ACLU Co-Founder and Civil Rights Crusader
 ---
+
 > “History tends to bury what it seeks to reject, and it was no accident that male-dominated history excised the leadership of women who made essential connections between sexism, racism, poverty and war.” — Blanche Wiesen Cook on why Crystal Eastman was lost to history for several decades
 
 Crystal Eastman would be 140 years old if she were still alive, but her words and ideas are very much of the moment. She’s _so_ relevant, I am appalled I only just learned her name.
 
-<p style="text-align: center"><img src="/crystal_eastman.webp"></p><p style="text-align: center"><em>Crystal Eastman, 1915 (Wikimedia Commons)</em></p>
+<p style="text-align: center"><img src="/images/crystal_eastman.webp"></p><p style="text-align: center"><em>Crystal Eastman, 1915 (Wikimedia Commons)</em></p>
 
-Crystal was a cofounder of many things. With her brother, she founded and edited the radical socialist publication _The Liberator. S_he co-founded the Women’s National Congress with Alice Paul — one of the main suffrage organizations in the early 20th century. In the lead up to World War I she founded the International Women’s Peace Party to try to stop the war and later to protect free speech. And she co-founded the ACLU.
+Crystal was a cofounder of many things. With her brother, she founded and edited the radical socialist publication \_The Liberator. S_he co-founded the Women’s National Congress with Alice Paul — one of the main suffrage organizations in the early 20th century. In the lead up to World War I she founded the International Women’s Peace Party to try to stop the war and later to protect free speech. And she co-founded the ACLU.
 
 Along the way she wrote the first workers compensation law in America.
 
@@ -17,7 +18,7 @@ Along the way she wrote the first workers compensation law in America.
 
 Crystal Eastman was born in 1881. Her mother, Annis Ford Eastman, was a suffragist and the first woman ordained Congregationalist minister in the U.S. back in 1890.
 
-<p style="text-align: center"><img src="/annis_ford_eastman.webp"></p><p style="text-align: center"><em>Annis Ford Eastman (Vassar Encyclopedia)</em></p>
+<p style="text-align: center"><img src="/images/annis_ford_eastman.webp"></p><p style="text-align: center"><em>Annis Ford Eastman (Vassar Encyclopedia)</em></p>
 
 Annis raised Crystal to believe in women’s rights. The minister used to hold twice-weekly “Supposiums” for her community, and it was at one of these that 15-year old Crystal presented her first paper on feminism, entitled “Women,” in which she proclaimed:
 
@@ -33,7 +34,7 @@ Crystal knew that she was a product of her upbringing. But how to spread the gos
 
 > “We must bring up feminist sons,” she declared.
 
-<p style="text-align: center"><img src="/employers_liability.webp"></p><p style="text-align: center"><em>(Vassar Encyclopedia)</em></p>
+<p style="text-align: center"><img src="/images/employers_liability.webp"></p><p style="text-align: center"><em>(Vassar Encyclopedia)</em></p>
 
 ## **Labor Rights are Human Rights**
 
@@ -49,7 +50,7 @@ Crystal believed that marriage was “a link and not a handcuff.” When she mar
 
 ## **Not Your Average Suffragist**
 
-<p style="text-align: center"><img src="/eastman_drawing.jpeg"></p><p style="text-align: center"><em>A newspaper clipping from the Los Angeles Sunday Herald on October 09, 1910 featuring Crystal Eastman (Library of Congress)</em></p>
+<p style="text-align: center"><img src="/images/eastman_drawing.jpeg"></p><p style="text-align: center"><em>A newspaper clipping from the Los Angeles Sunday Herald on October 09, 1910 featuring Crystal Eastman (Library of Congress)</em></p>
 
 Crystal Eastman was distinct in the way that she fought for the causes she believed in. A self-described “militant idealist,” she had a brilliant mind that understood the interplay between systems of power and oppression, and because of that she refused to compromise or to let one cause take over at the expense of others.
 
@@ -67,7 +68,7 @@ In 1915, she, Fanny Garrison Villard, and suffragist Carrie Chapman Catt founded
 
 In one, they introduced the public to “Jingo the Dinosaur — all plate armor, no brains.” It honestly takes a little unpacking to understand the satire here, but essentially the dinosaur was meant to represent the warring forces. And who wants to be a dinosaur, right?
 
-<p style="text-align: center"><img src="/0_fsxpJwUJG5Mie8dt.webp"></p><p style="text-align: center"><em>Jingo (via </em><a target="_blank" rel="noopener ugc nofollow" class="ag qc" href="https://www.smithsonianmag.com/science-nature/jingo-the-dinosaur-a-world-war-i-mascot-57348765/"><em><u>Smithsonian Magazine</u></em></a><em>)</em></p>
+<p style="text-align: center"><img src="/images/0_fsxpJwUJG5Mie8dt.webp"></p><p style="text-align: center"><em>Jingo (via </em><a target="_blank" rel="noopener ugc nofollow" class="ag qc" href="https://www.smithsonianmag.com/science-nature/jingo-the-dinosaur-a-world-war-i-mascot-57348765/"><em><u>Smithsonian Magazine</u></em></a><em>)</em></p>
 
 Once Congress declared war in 1917, the WPP’s primary goal became to defend free speech during wartime. This turned out to be critical.
 
@@ -79,13 +80,13 @@ That organization turned into the ACLU.
 
 At the same time, the passage of the Espionage Act made prosecution of political speech dangerously easy for the government. Her own publication — _The Liberator_ — came under fire, and was shut down. Her brother and several others were tried under the Espionage Act, but both trials ended in hung juries.
 
-<p style="text-align: center"><img src="/liberator_masthead.jpeg"></p><p style="text-align: center"><em>The names of the editors of The Liberator — note Helen Keller is among them (via </em><a href="http://Marxists.org"><em>Marxists.org</em></a><em>)</em></p>
+<p style="text-align: center"><img src="/images/liberator_masthead.jpeg"></p><p style="text-align: center"><em>The names of the editors of The Liberator — note Helen Keller is among them (via </em><a href="http://Marxists.org"><em>Marxists.org</em></a><em>)</em></p>
 
 Because of her activism and her part in the publication, Crystal was blacklisted during the first Red Scare of 1919–1920. She was unable to find paid work for years, though that certainly didn’t stop her from writing and agitating.
 
 ## **Now We Can Begin**
 
-<p style="text-align: center"><img src="/eastman_pearls.webp"></p><p style="text-align: center"><em>Crystal Eastman, 1923 (Library of Congress)</em></p>
+<p style="text-align: center"><img src="/images/eastman_pearls.webp"></p><p style="text-align: center"><em>Crystal Eastman, 1923 (Library of Congress)</em></p>
 
 Crystal Eastman distinguished herself among suffragists by the belief that suffrage was just the _start_ of the struggle for equality. She called that struggle “A big battle for the complete feminist.”
 
@@ -98,7 +99,7 @@ First, she said, we must break down all barriers — actual and legal — to wom
 She advocated for mothers to be paid for their contributions to society. And that still would not be the end of the struggle.
 
 > _“…with a generous endowment of motherhood provided by legislation… with the feminist ideal of education accepted in home and school, and with all special barriers removed in every field of human activity, there is no reason why woman should not become almost a human thing._
-> 
+>
 > _It will be time enough then to consider whether she has a soul.”_
 
 What did she do next? **_She went and wrote_** [**_the ERA_**](https://www.brennancenter.org/our-work/research-reports/equal-rights-amendment-explained).
@@ -119,14 +120,9 @@ In Crystal’s obituary in _The Nation_, editor Freda Kirchwey wrote:
 
 ## Sources:
 
-*   Neuman, J. (2019). _Gilded suffragists: The New York socialites who fought for women’s right to vote_. New York: Washington Mews Books, and imprint of New York University Press.
-    
-*   [_Crystal Eastman_](http://vcencyclopedia.vassar.edu/alumni/crystal-eastman.html)_,_ Vassar Encyclopedia.
-    
-*   Herman, S. N. (2019, July 12). [Crystal Eastman, The ACLU’s Underappreciated Founding Mother](https://www.aclu.org/issues/free-speech/crystal-eastman-aclus-underappreciated-founding-mother).
-    
-*   [Text of “Now We Can Begin”](https://awpc.cattcenter.iastate.edu/2017/03/09/now-we-can-begin-1920/), Iowa State University Archives of Women’s Political Communication
-    
-*   [Crystal Eastman](https://www.britannica.com/biography/Crystal-Eastman), Encyclopedia Britannica
-    
-*   Black, R. (2009, November 16). [Jingo the Dinosaur — a World War I Mascot](https://www.smithsonianmag.com/science-nature/jingo-the-dinosaur-a-world-war-i-mascot-57348765/). _Smithsonian Magazine_.
+- Neuman, J. (2019). _Gilded suffragists: The New York socialites who fought for women’s right to vote_. New York: Washington Mews Books, and imprint of New York University Press.
+- [_Crystal Eastman_](http://vcencyclopedia.vassar.edu/alumni/crystal-eastman.html)_,_ Vassar Encyclopedia.
+- Herman, S. N. (2019, July 12). [Crystal Eastman, The ACLU’s Underappreciated Founding Mother](https://www.aclu.org/issues/free-speech/crystal-eastman-aclus-underappreciated-founding-mother).
+- [Text of “Now We Can Begin”](https://awpc.cattcenter.iastate.edu/2017/03/09/now-we-can-begin-1920/), Iowa State University Archives of Women’s Political Communication
+- [Crystal Eastman](https://www.britannica.com/biography/Crystal-Eastman), Encyclopedia Britannica
+- Black, R. (2009, November 16). [Jingo the Dinosaur — a World War I Mascot](https://www.smithsonianmag.com/science-nature/jingo-the-dinosaur-a-world-war-i-mascot-57348765/). _Smithsonian Magazine_.
