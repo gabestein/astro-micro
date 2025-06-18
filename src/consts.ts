@@ -1,27 +1,26 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Astro Micro",
-  DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
-  EMAIL: "trevortylerlee@gmail.com",
+  TITLE: "Ariel Azoff",
+  DESCRIPTION: "New York City and Brooklyn tour guide and historian.",
+  EMAIL: "arielazoff@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Micro is an accessible theme for Astro.",
+  DESCRIPTION: "New York City and Brooklyn tour guide and historian.",
 };
 
 export const BLOG: Metadata = {
-  TITLE: "Blog",
+  TITLE: "Articles",
   DESCRIPTION: "A collection of articles on topics I am passionate about.",
 };
 
 export const PROJECTS: Metadata = {
-  TITLE: "Projects",
-  DESCRIPTION:
-    "A collection of my projects with links to repositories and live demos.",
+  TITLE: "Tours",
+  DESCRIPTION: "More information about my tours.",
 };
 
 export const SOCIALS: Socials = [
