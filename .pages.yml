@@ -14,6 +14,7 @@ content:
       fields: [ title, description, date ]
     fields:
       - { name: title, label: Title, type: string, required: true }
+      - { name: date, label: Creation date, type: date }
       - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
   - name: tours
@@ -25,6 +26,7 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
+      - { name: date, label: Creation date, type: date }
       - { name: body, label: Body, type: rich-text }
   - name: home
     label: Homepage Bio
