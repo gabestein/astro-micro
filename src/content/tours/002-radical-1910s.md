@@ -9,6 +9,10 @@ This tour focuses on the East Village during the 1910, and the women who lived, 
 
 Historian Alan Ginsberg (not the poet) described the early 20th Century as the “Age of Collision and Translational Motion, as various forms of power centralized, cities filled up with diverse populations, large corporations amassed capital, labor unions organized, and government institutions grew. Human differences did not melt away in this milieu but they did collide, connect, impact, influence, and entangle.”
 
+![](/images/labor%20tour%202.jpeg)
+
+![](/images/labor%20tour%203.jpg)
+
 ## Some of My Sources & Recommended Reading/Listening:
 
 ### Biographies
