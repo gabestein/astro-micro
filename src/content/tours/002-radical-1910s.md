@@ -1,7 +1,6 @@
 ---
 title: "Radical Women of the 1910s: An East Village Tour"
-description: This tour examines how the various political and social movements
-  of the time collided and intersected in all kinds of crazy ways.
+description: "Labor, suffrage, civil rights, anti-war, and more! "
 date: 2023-03-18
 ---
 ## About the Tour
