@@ -85,7 +85,11 @@ const { Content, headings } = await render(post);
       ) : null
     }
   </div>
-  {headings.length > 0 && <TableOfContents headings={headings} />}
+  {
+    headings.length > 0 && (
+      <TableOfContents headings={headings} openSetting={false} />
+    )
+  }
   <article class="animate">
     <Content />
     <div class="mt-24">
