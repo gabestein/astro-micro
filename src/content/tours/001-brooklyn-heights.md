@@ -4,9 +4,9 @@ description: Women's lives in Brooklyn Heights during the construction of the
   Brooklyn Bridge
 date: 2017-11-18
 ---
-## Summary
+## About the Tour
 
-This ~2 hour tour focuses on the lives of three women who lived in Brooklyn Heights during the years the Brooklyn Bridge was being built (1969-1883). We cover gender dynamics, fashion, real estate, and politics, with a healthy dose of scandal. It starts in Cadman Plaza and ends on the Brooklyn Heights Promenade.
+This ~2 hour tour focuses on the lives of three women who lived in Brooklyn Heights during the years the Brooklyn Bridge was being built (1869-1883). We cover gender dynamics, fashion, real estate, and politics, with a healthy dose of scandal. It starts in Cadman Plaza and ends on the Brooklyn Heights Promenade.
 
 ## Some of My Sources:
 
