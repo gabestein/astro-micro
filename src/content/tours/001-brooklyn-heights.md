@@ -1,7 +1,7 @@
 ---
 title: In the Shadow of the Great Bridge
-description: Women's lives in late-19th century Brooklyn Heights during the
-  construction of the Brooklyn Bridge
+description: Women's lives in Brooklyn Heights during the construction of the
+  Brooklyn Bridge
 date: 2017-11-18
 ---
 ## Summary
