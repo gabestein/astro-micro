@@ -1,7 +1,7 @@
 ---
-title: "In the Shadow of the Great Bridge: Women of 19th Century Brooklyn Heights"
-description: The tour focuses on the lives of women who lived in Brooklyn
-  Heights during the years the Brooklyn Bridge was being built (1969-1883).
+title: In the Shadow of the Great Bridge
+description: Women's lives in late-19th century Brooklyn Heights during the
+  construction of the Brooklyn Bridge
 date: 2017-11-18
 ---
 ## Summary
