@@ -29,7 +29,11 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "/astro-micro.jpg" } = Astro.props;
+const {
+  title,
+  description,
+  image = "/images/labor%20tour%203.jpg",
+} = Astro.props;
 ---
 
 <!-- Global Metadata -->
