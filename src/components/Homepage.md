@@ -8,10 +8,6 @@ Currently on offer: [In the Shadow of the Great Bridge (19th Century Brooklyn He
 
 ## July 2025 Tour Dates:
 
-*   **Saturday, July 12th at 3pm:** In the Shadow of the Great Bridge (Brooklyn Heights)
-    
-*   **Sunday, July 13th at 9:45am:** Radical Women of the 1910s (East Village)
-    
 *   **Friday, July 18th at 5pm:** In the Shadow of the Great Bridge (Brooklyn Heights)
     
 *   **Saturday, July 19th at 9:45am:** Radical Women of the 1910s (East Village)
