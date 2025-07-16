@@ -5,7 +5,7 @@ date: 2023-03-18
 ---
 ## About the Tour
 
-This tour focuses on the East Village during the 1910, and the women who lived, worked, and agitated there. We examine about the various political and social movements of the time, with a focus on labor and suffrage. We discuss how these movements and others collided and intersected in all kinds of crazy ways and of course, tell some fun, juicy stories. It starts and ends at Union Square and runs about 2.5 hours.
+This tour focuses on the East Village during the 1910s, and the women who lived, worked, and agitated there. We examine about the various political and social movements of the time, with a focus on labor and suffrage. We discuss how these movements and others collided and intersected in all kinds of crazy ways and of course, tell some fun, juicy stories. It starts and ends at Union Square and runs about 2.5 hours.
 
 Historian Alan Ginsberg (not the poet) described the early 20th Century as the “Age of Collision and Translational Motion, as various forms of power centralized, cities filled up with diverse populations, large corporations amassed capital, labor unions organized, and government institutions grew. Human differences did not melt away in this milieu but they did collide, connect, impact, influence, and entangle.”
 
