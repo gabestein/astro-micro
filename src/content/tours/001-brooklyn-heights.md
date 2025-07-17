@@ -8,6 +8,12 @@ date: 2017-11-18
 
 This ~2 hour tour focuses on the lives of three women who lived in Brooklyn Heights during the years the Brooklyn Bridge was being built (1869-1883). We cover gender dynamics, fashion, real estate, and politics, with a healthy dose of scandal. It starts in Cadman Plaza and ends on the Brooklyn Heights Promenade.
 
+As seen on NBC's New York Live!
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oByGInB37HE?si=4vHAOetEWdAXzoXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
 ![](/images/20171118_120510-1.jpg)
 
 ![](/images/brookllyn%20heights%20tour%202.jpeg)
