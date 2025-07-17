@@ -10,6 +10,8 @@ This ~2 hour tour focuses on the lives of three women who lived in Brooklyn Heig
 
 As seen on NBC's New York Live!
 
+[https://www.youtube.com/watch?v=oByGInB37HE](https://www.youtube.com/watch?v=oByGInB37HE)
+
 ![](/images/20171118_120510-1.jpg)
 
 ![](/images/brookllyn%20heights%20tour%202.jpeg)
